@@ -2,8 +2,8 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
-![Swagger](https://img.shields.io/badge/-Swagger?style=for-the-badge&logo=swagger)
-![Jira](https://img.shields.io/badge/-Jira?style=for-the-badge&logo=jira)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logocolor=b6fa70)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logocolor=44d9ff)
 
 ## 📁 Тестовая документация:
 <div>
