@@ -3,6 +3,7 @@
 ## Я начинающий Инженер по ручному тестированию
 
 ![Swagger](https://img.shields.io/badge/-Swagger?style=for-the-badge&logo=swagger)
+![Jira](https://img.shields.io/badge/-Jira?style=for-the-badge&logo=jira)
 
 ## 📁 Тестовая документация:
 <div>
