@@ -8,7 +8,7 @@
 
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
 ![testrail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail)
-![test-it](https://img.shields.io/badge/-testit-black?style=for-the-badge&logo=testit)
+![test-it](https://img.shields.io/badge/-test--it-black?style=for-the-badge&logo=test--it)
 ![figma](https://img.shields.io/badge/-figma-black?style=for-the-badge&logo=figma)
 
 ---
@@ -24,9 +24,9 @@
 
 ### 📱 Тестирование мобильных приложений:
 
-![android_studio](https://img.shields.io/badge/-android_studio-black?style=for-the-badge&logo=android_studio)
+![android-studio](https://img.shields.io/badge/-android--studio-black?style=for-the-badge&logo=android--studio)
 ![xcode](https://img.shields.io/badge/-xcode-black?style=for-the-badge&logo=xcode)
-![charles_proxy](https://img.shields.io/badge/-charles_proxy-black?style=for-the-badge&logo=charles_proxy)
+![charles-proxy](https://img.shields.io/badge/-charles--proxy-black?style=for-the-badge&logo=charles--proxy)
 ![fiddler](https://img.shields.io/badge/-fiddler-black?style=for-the-badge&logo=fiddler)
 ![proxyman](https://img.shields.io/badge/-proxyman-black?style=for-the-badge&logo=proxyman)
 
