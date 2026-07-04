@@ -2,9 +2,12 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger&logocolor=b6fa70)
-![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logocolor=44d9ff)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
+![testrail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail)
+![test-it](https://img.shields.io/badge/-testit-black?style=for-the-badge&logo=testit)
 
+
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
 ## 📁 Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
