@@ -15,13 +15,6 @@
 
 ### 🛠 Тестирование веб-приложений:
 
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-  <img src="https://marketplace.atlassian.com/product-listing/files/d376aa75-6e71-45df-bfb0-b9aa8d3bc03b?fileType=image&amp;mode=full-fit" title="Swagger" alt="Swagger" width="40" height="40">
-</div>
-
 ![devtools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools)
 ![postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![soapui](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui)
@@ -39,6 +32,12 @@
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
+![android-studio](https://img.shields.io/badge/-android-studio-black?style=for-the-badge&logo=android-studio)
+![xcode](https://img.shields.io/badge/-xcode-black?style=for-the-badge&logo=xcode)
+![charles-proxy](https://img.shields.io/badge/-charles-proxy-black?style=for-the-badge&logo=charles-proxy)
+![fiddler](https://img.shields.io/badge/-fiddler-black?style=for-the-badge&logo=fiddler)
+![proxyman](https://img.shields.io/badge/-proxyman-black?style=for-the-badge&logo=proxyman)
+
 
 ---
 
@@ -49,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
+![mysql](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql)
+![mongodb](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb)
 ---
 
 ### ✏️ Работа с кодом:
@@ -59,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
+![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=bash)
+![vscode](https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=vscode)
 
 ---
 
