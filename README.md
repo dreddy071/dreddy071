@@ -2,5 +2,6 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
-Языки и Инструменты
+## Языки и Инструменты
 ![Postman](https://img.shields.io/badge/Postman-red)
+![Swagger](https://img.shields.io/badge/Postman-green)
