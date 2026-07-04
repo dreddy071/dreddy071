@@ -2,7 +2,7 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
-![Swagger](https://img.shields.io/badge/-Swagger-blue?style=for-the-badge&logo=swagger)
+![Swagger](https://img.shields.io/badge/-Swagger-?style=for-the-badge&logo=swagger)
 
 ## 📁 Тестовая документация:
 <div>
