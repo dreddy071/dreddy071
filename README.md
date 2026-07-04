@@ -2,20 +2,14 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
+---
+
+## 📁 Тестовая документация:
+
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
 ![testrail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail)
 ![test-it](https://img.shields.io/badge/-testit-black?style=for-the-badge&logo=testit)
-
-
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
-## 📁 Тестовая документация:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+![figma](https://img.shields.io/badge/-figma-black?style=for-the-badge&logo=figma)
 
 ---
 
@@ -27,6 +21,11 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
   <img src="https://marketplace.atlassian.com/product-listing/files/d376aa75-6e71-45df-bfb0-b9aa8d3bc03b?fileType=image&amp;mode=full-fit" title="Swagger" alt="Swagger" width="40" height="40">
 </div>
+
+![devtools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools)
+![postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
+![soapui](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
 
 ---
 
