@@ -2,6 +2,8 @@
 
 ## Я начинающий Инженер по ручному тестированию
 
+![Swagger](https://img.shields.io/badge/-Swagger-blue?style=for-the-badge&logo=swagger)
+
 ## 📁 Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
